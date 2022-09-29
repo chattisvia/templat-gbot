@@ -1,5 +1,9 @@
-# LATIHAN TEMPLATE 
-![alt text](https://raw.githubusercontent.com/asasama/templat-gbot/main/contoh%20ss/image.png)
+<h1 align="center">Chatam D. Fasha</h1>
+
+<p align="center">
+   <img src="https://github.com/asasama/templat-gbot/blob/main/contoh%20ss/image.png?raw=true" alt="contoh ss"
+</p>
+
 # LABEL ACCECPT QUEST
 - CEK QUEST
 - ACCECPT
