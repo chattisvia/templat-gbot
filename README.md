@@ -1,5 +1,5 @@
 # LATIHAN TEMPLATE 
-
+![alt text](https://raw.githubusercontent.com/asasama/templat-gbot/main/contoh%20ss/image.png)
 # LABEL ACCECPT QUEST
 - CEK QUEST
 - ACCECPT
